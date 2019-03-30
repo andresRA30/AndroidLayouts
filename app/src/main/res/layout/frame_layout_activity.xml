@@ -26,7 +26,7 @@
         android:id="@+id/whatapp"
         android:layout_gravity="center"
         android:padding="16dp"
-        android:src="@drawable/whatapp"/>
+        android:src="@drawable/359786_logo"/>
 
 
 
